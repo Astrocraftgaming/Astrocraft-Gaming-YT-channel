@@ -1,4 +1,11 @@
-h1{color:white;}
+h1{color:white;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 75;
+}
 .buttonone{
   background-color:#b01b10;
   color:white;
@@ -12,11 +19,19 @@ h1{color:white;}
   border-radius:25px;
   cursor:pointer;
   transition:0.15s;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 75;
 }
 .buttonone:hover{
   background-color:white;
   color:#b01b10;
-  opacity:0.7;
+}
+.channel:hover{
+  text-decoration: underline;
 }
 .buttonone:active{
   background-color:white;
@@ -29,11 +44,19 @@ h1{color:white;}
   border-style:none;
   font-weight:bold;
   border-radius:10px;
-  height:20px;
-  width:40px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:20px;
+  padding-right:20px;
   cursor:pointer;
   margin-bottom:10px;
   transition:0.15s;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 75;
 }
 .two:hover{
   background-color:white;
@@ -51,11 +74,19 @@ h1{color:white;}
   border-style:none;
   font-weight:bold;
   border-radius:10px;
-  height:20px;
-  width:40px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:20px;
+  padding-right:20px;
   cursor:pointer;
   margin-bottom:10px;
   transition:0.15s;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 75;
 }
 .three:hover{
   background-color:white;
