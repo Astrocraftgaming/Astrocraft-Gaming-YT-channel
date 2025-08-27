@@ -99,6 +99,6 @@ h1{color:white;
   opacity:0.3;
 }
 body{
-background-image:linear-gradient(to bottom left, red ,black);
+background-image:linear-gradient(red ,black);
 min-height:100vh;
 }
