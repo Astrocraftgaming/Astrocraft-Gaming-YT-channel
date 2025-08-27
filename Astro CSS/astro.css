@@ -98,4 +98,7 @@ h1{color:white;
   color:red;
   opacity:0.3;
 }
-body{background-color:black;}
+body{
+background-image:linear-gradient(to bottom left, red ,black);
+min-height:100vh
+}
